@@ -1,0 +1,108 @@
+html{
+	background-color: rgb(128,147,161);
+	font-family: tahoma;
+	}
+.zero{
+	width: 420px;
+	height: 594px;
+	background-color: #ffffff;
+	margin-right: auto;
+	margin-left: auto;
+	border: 3px solid black;
+	}
+header{
+	width: 400px;
+	height: 30px;
+	background-color: #668ef3;
+	font-size: 18px;
+	color: #ffffff;
+	padding-left: 20px;
+	padding-top: 5px;
+	}
+.photo{
+	width: 120px;
+	height: 150px;
+	padding: 5px 20px 5px 20px;
+	float: left;
+	}
+.name{
+	width: 220px;
+	height: 150px;
+	padding: 5px 20px 5px 20px;
+	float: left;
+	}
+.skillsheader{
+	width: 140px;
+	height: 30px;
+	background-color: #2ed583;
+	font-size: 18px;
+	color: #ffffff;
+	padding-left: 20px;
+	padding-top: 5px;
+	}
+.profile{
+	width: 260px;
+	height: 175px;
+	float: left;
+	}
+.skills{
+	width: 160px;
+	height: 175px;
+	float: left;
+	}
+.profileheader{
+	width: 240px;
+	height: 30px;
+	background-color: #f04a4c;
+	font-size: 18px;
+	color: #ffffff;
+	padding-left: 20px;
+	padding-top: 5px;
+	}
+ul{
+	list-style-type: disc;
+	padding-left: 20px;
+	}
+li{
+	font-size: 12px;
+	}
+.profiletext{
+	font-size: 12px;
+	margin: 16px 16px 16px 16px;
+	}
+.contact{
+	width: 400px;
+	margin: 10px 10px 10px 10px;
+	background-color: #ffffff;
+	float: left;
+	}
+.img{
+	float: left;
+	}
+a:hover{
+	color: hotpink;
+	}
+p,input{
+	font-size: 14px;
+	display: block;
+	float: left;
+	margin-bottom: 10px;
+	width: 90px;
+	}
+.button{
+	display: block;
+	background-color: #668ef3; 
+	color: #ffffff;
+	float: right;
+	margin-top: 60px;
+	width: 120px;
+	}
+.email{
+	width: 180px;
+	margin: 10px 120px 10px 0px;
+	}
+.text{
+	margin-right: 100px;
+	float: left;
+	width: 180px;
+	}
